@@ -1,4 +1,3 @@
 # shell commands
 
-mmgmntt
-fishis good
+mmgmnttg
